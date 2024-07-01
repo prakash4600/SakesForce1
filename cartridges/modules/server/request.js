@@ -312,7 +312,7 @@ function getPageMetaData(pageMetaData) {
 function Request(request, customer, session) {
     // Avoid currency check for remote includes
     if (!request.includeRequest) {
-        setCurrency(request, session);
+        //setCurrency(request, session);
     }
 
     this.httpMethod = request.httpMethod;

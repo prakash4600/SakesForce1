@@ -2,3 +2,9 @@
     name="contentasset"
     attribute="aid"
 />
+<ismodule template="assignmentsSFCC/customtag1"
+    name="productDetails"
+    attribute="id"
+    attribute="name"
+    attribute="brand"
+/>
